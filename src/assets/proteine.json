@@ -1,0 +1,53 @@
+[
+    {
+        "name":"Gold Standard 100% Whey",
+        "description":"24g of Whey Protein with Amino Acids for Muscle Recovery and Growth Muscle Building Whey Protein Powder",
+        "image":"/assets/imgs/proteins/product1.jpg",
+        "rating":"9.2",
+        "prix":"$16.99"
+    },
+    {
+        "name":"Syntha-6",
+        "description":"22g of an Ultra-Premium Blended Protein Formula for Use Anytime, Day or Night Formulated with 10 Grams of Essential Amino Acids Per Serving",
+        "image":"/assets/imgs/proteins/product2.jpg",
+        "rating":"9.2",
+        "prix":"$29.58"
+    },
+    {
+        "name":"Pro JYM",
+        "description":"24g of Pure, Quality Protein in Every Scoop with No Added Amino Acids or Filler Nutrients A Pure Blend of High-Quality Proteins in Exact Amounts to Maximize Growth, Recovery, and Repair*",
+        "image":"/assets/imgs/proteins/product3.jpg",
+        "rating":"9.1",
+        "prix":"$27.99"
+    },
+    {
+        "name":"NITRO-TECH 100% Whey Gold",
+        "description":"Each Scoop Serves Up 24G Of Ultra-Premium Micro-Filtered Protein Incredible Pure Protein Powder Featuring Whey Protein Peptides And Whey Protein Isolate",
+        "image":"/assets/imgs/proteins/product4.jpg",
+        "rating":"9.1",
+        "prix":"$28.99"
+    },
+    {
+        "name":"Zero Carb Isopure",
+        "description":"Zero Carb Isopure! With 50 Grams Of Protein From 100% Whey Protein Isolate!",
+        "image":"/assets/imgs/proteins/product7.jpg",
+        "rating":"9.4",
+        "prix":"$15.99"
+    },
+    {
+        "name":"ISO100",
+        "description":"Hydrolyzed 100% Whey Protein Isolate A delicious, ultra-pure, fast-absorbing whey protein isolate to support muscle growth.*",
+        "image":"/assets/imgs/proteins/product5.jpg",
+        "rating":"9.3",
+        "prix":"$29.99"
+    },
+    {
+        "name":"Stacked Protein, 907 Grams",
+        "description":"25 Gram Protein Complex With Milkshake Taste, With 5g BCAAs and 5g Glutamine To Fuel Your Results!*",
+        "image":"/assets/imgs/proteins/product6.jpg",
+        "rating":"9.4",
+        "prix":"$29.99"
+    }
+
+
+]

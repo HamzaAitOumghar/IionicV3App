@@ -1,0 +1,40 @@
+[
+    {
+        "name":"THE 5 X 5 PROGRAM",
+        "steps":[
+            {
+                "number":"1",
+                "name":"BARBELL SQUAT",
+                "image":"/assets/imgs/Programme/programme1/1.png",
+                "step":"5 sets of 5 reps"
+            },
+            {
+                "number":"2",
+                "name":"BARBELL SQUAT",
+                "image":"/assets/imgs/Programme/programme1/2.png",
+                "step":"5 sets of 5 reps"
+            },
+            {
+                "number":"3",
+                "name":"BENT OVER BARBELL ROW",
+                "image":"/assets/imgs/Programme/programme1/3.png",
+                "step":"5 sets of 5 reps"
+            },
+            {
+                "number":"4",
+                "name":"PULLUPS",
+                "image":"/assets/imgs/Programme/programme1/4.png",
+                "step":"2 sets of 8 reps"
+            },
+            {
+                "number":"5",
+                "name":"SIT-UP",
+                "image":"/assets/imgs/Programme/programme1/6.png",
+                "step":"2 sets of 15 reps"
+            }
+        ]
+
+        
+    }
+  
+]

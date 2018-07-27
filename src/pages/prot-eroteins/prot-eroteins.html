@@ -1,0 +1,20 @@
+<!--
+  Generated template for the ProtEroteinsPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+
+  <ion-navbar>
+    <ion-title style="text-align:center ;">Best Protein Powder Supplements</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+      <ion-card *ngFor="let pro of proteines">
+          <img padding src="{{pro.image}}" (click)="goToDetails(pro)" id="imgProteine" />
+      </ion-card>
+</ion-content>

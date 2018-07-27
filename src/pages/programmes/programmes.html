@@ -1,0 +1,38 @@
+<!--
+  Generated template for the ProgrammesPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+
+  <ion-navbar>
+    <ion-title style="text-align: center;">List Of Programmes</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+
+  <ion-card *ngFor='let pro of programmes'>
+
+    <ion-card-header color="primary" style="text-align: center;">
+      {{pro.name}}
+    </ion-card-header>
+
+    <ion-card-content>
+
+      <ion-list>
+        <ion-item *ngFor='let stp of pro.steps'>
+          <img src="{{stp.image}}">
+          <h2 style="text-align: center;">{{stp.number}}-{{stp.name}}</h2>
+          <h3 style="text-align: center;">{{ stp.step}}</h3>
+        </ion-item>
+      </ion-list>
+
+    </ion-card-content>
+
+  </ion-card>
+
+</ion-content>

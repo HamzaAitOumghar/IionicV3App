@@ -35,6 +35,95 @@
         ]
 
         
+    },
+    {
+        "name":"GERMAN VOLUME TRAINING",
+        "steps":[
+            {
+                "number":"1",
+                "name":"DUMBBELL BENCH PRESS",
+                "image":"/assets/imgs/Programme/programme2/1.png",
+                "step":"10 sets of 10 reps"
+            },
+            {
+                "number":"2",
+                "name":"BENT OVER BARBELL ROW",
+                "image":"/assets/imgs/Programme/programme2/2.png",
+                "step":"10 sets of 10 reps"
+            },
+            {
+                "number":"3",
+                "name":"BUTTERFLY",
+                "image":"/assets/imgs/Programme/programme1/3.png",
+                "step":"3 sets of 10-15 reps"
+            },
+            {
+                "number":"4",
+                "name":"INCLINE BENCH PULL",
+                "image":"/assets/imgs/Programme/programme2/4.png",
+                "step":"3 sets of 10-15 reps"
+            }
+        ]
+
+        
+    },
+    {
+        "name":"THE FST-7 TRAINING PROGRAM",
+        "steps":[
+            {
+                "number":"1",
+                "name":"BARBELL CURL",
+                "image":"/assets/imgs/Programme/programme3/1.png",
+                "step":"3-4 sets of 8-12 reps"
+            },
+            {
+                "number":"2",
+                "name":"HAMMER CURLS",
+                "image":"/assets/imgs/Programme/programme3/2.png",
+                "step":"3-4 sets of 8-12 reps"
+            },
+            {
+                "number":"3",
+                "name":"STANDING BICEPS CABLE CURL",
+                "image":"/assets/imgs/Programme/programme3/3.png",
+                "step":" sets of 8-12 reps"
+            },
+            {
+                "number":"4",
+                "name":"CLOSE-GRIP BARBELL BENCH PRESS",
+                "image":"/assets/imgs/Programme/programme3/4.png",
+                "step":"3-4 sets of 8-12 reps"
+            },
+            {
+                "number":"5",
+                "name":"SEATED TRICEPS PRESS",
+                "image":"/assets/imgs/Programme/programme3/5.png",
+                "step":"3-4 sets of 8-12 reps"
+            },
+            {
+                "number":"6",
+                "name":"CABLE ROPE OVERHEAD TRICEPS EXTENSION",
+                "image":"/assets/imgs/Programme/programme3/6.png",
+                "step":"7 sets of 8-12 reps"
+            },
+            {
+                "number":"7",
+                "name":"SEATED CALF RAISE",
+                "image":"/assets/imgs/Programme/programme3/7.png",
+                "step":"3-4 sets of 8-12 reps"
+            },
+            {
+                "number":"8",
+                "name":"STANDING CALF RAISES",
+                "image":"/assets/imgs/Programme/programme3/8.png",
+                "step":"7 sets of 8-12 reps"
+            }
+            
+            
+
+        ]
+
+        
     }
   
 ]

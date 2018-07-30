@@ -15,6 +15,8 @@ import { HttpClientModule } from '@angular/common/http';
 import { DetailsProteinPage } from '../pages/details-protein/details-protein';
 import { ProgrammeProvider } from '../providers/programme/programme';
 
+import { AdMobFree} from '@ionic-native/admob-free';
+
 @NgModule({
   declarations: [
     MyApp,
@@ -44,6 +46,7 @@ import { ProgrammeProvider } from '../providers/programme/programme';
   providers: [
     StatusBar,
     SplashScreen,
+    AdMobFree,
     {provide: ErrorHandler, useClass: IonicErrorHandler},
     ProtieneProvider,
     ProgrammeProvider
